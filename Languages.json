@@ -2,25 +2,7 @@
     "en": {
         "NativeName": "English",
         "EnglishName": "English"
-    },
-
-    "cz": {
-        "NativeName": "Čeština",
-        "EnglishName": "Czech"
-    },
-
-    "fr": {
-        "NativeName": "Français",
-        "EnglishName": "French"
-    },
-
-    "de": {
-        "NativeName": "Deutsch",
-        "EnglishName": "German"
-    },
-
-    "es": {
-        "NativeName": "Español",
+  
         "EnglishName": "Spanish"
     },
     
